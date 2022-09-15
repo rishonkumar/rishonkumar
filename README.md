@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at TCS
+- 🌱 I’m currently learning Front-End Technologies - (React,JS,CSS,HTML)
+
 <!--
 **rishonkumar/rishonkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
