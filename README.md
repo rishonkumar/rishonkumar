@@ -35,3 +35,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishonkumar&show_icons=true&locale=en" alt="rishon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishonkumar&" alt="rishon" /></p>
+
+</br>
+
+<a href='https://leetcode.com/rishonkumar3/'><img src='https://leetcard.jacoblin.cool/rishonkumar3?border=0&radius=30&ext=contest&theme=dark' alt='Leetcode Stats'></a>
+
+</br>
