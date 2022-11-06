@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishon Kumar</h1>
 <h3 align="center">Front-End Developer and working on Data Structure and Algo</h3>
 
-<p align="left"> <a href="https://twitter.com/RishonKumar" target="blank"><img src="https://img.shields.io/twitter/follow/RishonKumar?logo=twitter&style=for-the-badge" alt="rishon" /></a> </p>
+  My Portfolio [Click Here](https://rishon-portfolio.netlify.app/)
 
 - 🔭 I’m currently working on **Front-End and DSA**
 
