@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishon Kumar</h1>
 <h3 align="center">Front-End Developer and working on Data Structure and Algo</h3>
 
-  My Portfolio [Click Here](https://rishon-portfolio.netlify.app/)
+  :seedling: [My Portfolio](https://rishon-portfolio.netlify.app/)
 
 - 🔭 I’m currently working on **Front-End and DSA**
 
