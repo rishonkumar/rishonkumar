@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishon Kumar</h1>
+<h1 align="center">Hi, I'm Rishon Kumar</h1>
 <h3 align="center">SAP Hybris Developer with expertise in Backend Engineering</h3>
 
 🔭 I'm currently working as a **SAP Hybris Developer at Tata Consultancy Services**
@@ -37,16 +37,14 @@
 
 ---
 
-### GitHub Stats
+<h3 align="center">GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishonkumar&show_icons=true&theme=radical&custom_title=Rishon%20Kumar's%20GitHub%20Stats&hide=issues,contribs&include_all_commits=true&hide_rank=true&hide_title=true" alt="GitHub Stats" />
+</div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rishonkumar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishonkumar&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rishonkumar&theme=radical&row=1" alt="GitHub Trophies" />
+  <b>⭐ Total Stars:</b> 28 &nbsp;|&nbsp;
+  <b>💻 Total Commits (2025):</b> 62 &nbsp;|&nbsp;
+  <b>🔀 Total PRs:</b> 10
 </p>
