@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rishon Kumar</h1>
 <h3 align="center">SAP Hybris Developer with expertise in Backend Engineering</h3>
 
-🔭 I'm currently working as a **SAP Hybris Developer at Tata Consultancy Services**
+🔭 I'm currently working as a **SAP Hybris Developer at Nagarro** I have previously worked at TCS as **SAP Hybris Developer**
 
 - 💼 Experienced in **SAP Commerce, Spring, Java, and SQL**
 - 🌱 I'm currently working with **SAP Commerce Cloud and Backend Technologies**
