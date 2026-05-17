@@ -1,50 +1,71 @@
-<h1 align="center">Hi, I'm Rishon Kumar</h1>
-<h3 align="center">SAP Hybris Developer with expertise in Backend Engineering</h3>
+<h1 align="center">Hi, I'm Rishon Kumar Rahi</h1>
+<h3 align="center">Senior SAP Hybris Developer | Backend Engineer</h3>
 
-🔭 I'm currently working as a **SAP Hybris Developer at Nagarro** I have previously worked at TCS as **SAP Hybris Developer**
-
-- 💼 Experienced in **SAP Commerce, Spring, Java, and SQL**
-- 🌱 I'm currently working with **SAP Commerce Cloud and Backend Technologies**
-- 💬 Ask me about **SAP Hybris, Java, Spring, and Backend Development**
-- 📫 How to reach me **rishonkumarrahi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RishonKumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishon" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rishon-kumar-916841185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishon" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishon-kumar-916841185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/rishonkumar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/rishonkumar/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:rishonkumarrahi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-</p>
-
-### Professional Experience
-
-**SAP Hybris Developer** at *Tata Consultancy Services* (July 2022 – Present)
-- Developed and maintained OCC Extension Architecture for custom API endpoints, implementing RESTful services and enabling 95% faster data access
-- Improved data cleanup efficiency by 95% using direct SQL JDBC calls, reducing processing time from 40 minutes to 2 minutes
-- Architected an event-driven system ensuring real-time updates between e-commerce platform and mainframe, reducing synchronization errors by 40%
-- Implemented automated order notification system with 100% delivery rate for order confirmations and cancellations
-- Developed and optimized BackOffice application features leading to 25% reduction in order processing time
-- Created automated Cron-Jobs for data warehouse integration, saving 20 hours weekly in manual operations
-- Enhanced system reliability through comprehensive Unit Testing and API testing, resulting in 50% decrease in post-deployment issues
-- Led critical production support during go-live phase with 24/7 on-call availability
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+### 💼 Experience
+
+**Senior SAP Hybris Developer** @ *Nagarro* (July 2025 – Present)
+
+- Built custom OCC APIs and Business Process templates for order fulfillment, state transitions, and payment workflows
+- Integrated PayU payment gateway, improving checkout reliability
+- Configured HotFolder pipeline for automated order data import/export
+- Customized Amend Order action via Backoffice for secure basket editing
+- Primary on-call engineer using Splunk & Dynatrace for production stability
+
+**Tech:** SAP Commerce, Java, Spring, SQL, OCC, PayU, HotFolder, Splunk, Dynatrace
+
+---
+
+**SAP Hybris Developer** @ *Tata Consultancy Services* (July 2022 – July 2025)
+
+- Designed OCC Extension Architecture for custom RESTful APIs, accelerating data access by 95%
+- Automated Cron Jobs for data integration, saving 20 hours weekly
+- Streamlined data cleanup by 95% using SQL JDBC calls, reducing execution time to 2 minutes
+- Built event-driven sync process reducing errors by 40%
+- Optimized Backoffice Application, reducing order processing time by 25%
+- Developed custom promotions using Hybris Promotion Engine, increasing sales by 15%
+- Reduced post-deployment issues by 50% with JUnit testing
+- Provided 24/7 on-call support during go-live, resolving 40+ incidents
+
+**Tech:** SAP Commerce (B2B, B2C, WCMS, OCC), Spring, Java, SQL, JUnit, Cron Jobs
+
+---
+
+### 🛠️ Core Competencies
+
+| Area | Technologies |
+|------|--------------|
+| Languages | Java, SQL, JavaScript |
+| Framework | SAP Hybris, Spring Boot, Spring, JDBC |
+| Databases | MySQL, NoSQL |
+| Tools | Git, GitHub, AWS |
+
+---
+
+### 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishonkumar&show_icons=true&theme=radical&custom_title=Rishon%20Kumar's%20GitHub%20Stats&hide=issues,contribs&include_all_commits=true&hide_rank=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishonkumar&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true&hide_rank=true&hide_title=true" alt="GitHub Stats" />
 </div>
 
 <p align="center">
-  <b>⭐ Total Stars:</b> 28 &nbsp;|&nbsp;
-  <b>💻 Total Commits (2025):</b> 62 &nbsp;|&nbsp;
-  <b>🔀 Total PRs:</b> 10
+  ⭐ 28 Stars &nbsp;|&nbsp;
+  💻 62 Commits (2025) &nbsp;|&nbsp;
+  🔀 10 PRs
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishon-kumar-916841185/" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/rishonkumar" target="_blank">GitHub</a> • 
+  <a href="mailto:rishonkumarrahi@gmail.com">Email</a>
 </p>
